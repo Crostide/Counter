@@ -17,25 +17,25 @@ Frame.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
 Frame.BorderColor3 = Color3.fromRGB(36, 36, 36)
 Frame.Position = UDim2.new(0.413965076, 0, 0.362406015, 0)
 Frame.Draggable = true
-Frame.Size = UDim2.new(0, 332, 0, 122)
+Frame.Size = UDim2.new(0, 238, 0, 88)
 
 Frame_2.Parent = Frame
 Frame_2.BackgroundColor3 = Color3.fromRGB(47, 47, 47)
 Frame_2.BorderColor3 = Color3.fromRGB(47, 47, 47)
-Frame_2.Size = UDim2.new(0, 332, 0, 43)
+Frame_2.Size = UDim2.new(0, 238, 0, 31)
 
 ImageLabel.Parent = Frame_2
 ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ImageLabel.BackgroundTransparency = 1.000
 ImageLabel.Position = UDim2.new(0.433734953, 0, 0, 0)
-ImageLabel.Size = UDim2.new(0, 43, 0, 43)
+ImageLabel.Size = UDim2.new(0, 31, 0, 31)
 ImageLabel.Image = "http://www.roblox.com/asset/?id=9088030133"
 
 TextLabel.Parent = Frame
 TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.BackgroundTransparency = 1.000
-TextLabel.Position = UDim2.new(0.0512048192, 0, 0.352459013, 0)
-TextLabel.Size = UDim2.new(0, 297, 0, 78)
+TextLabel.Position = UDim2.new(0.1212048192, 0, 0.422459013, 0)
+TextLabel.Size = UDim2.new(0, 177, 0, 46)
 TextLabel.Font = Enum.Font.GothamSemibold
 TextLabel.Text = "0"
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
